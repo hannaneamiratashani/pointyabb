@@ -1,0 +1,1037 @@
+# Translation of Plugins - Visual Composer Website Builder, Landing Page Builder, Custom Theme Builder, Maintenance Mode &amp; Coming Soon Pages - Stable (latest release) in Persian
+# This file is distributed under the same license as the Plugins - Visual Composer Website Builder, Landing Page Builder, Custom Theme Builder, Maintenance Mode &amp; Coming Soon Pages - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-10-26 12:48:37+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/4.0.0-alpha.1\n"
+"Language: fa\n"
+"Project-Id-Version: Plugins - Visual Composer Website Builder, Landing Page Builder, Custom Theme Builder, Maintenance Mode &amp; Coming Soon Pages - Stable (latest release)\n"
+
+#: visualcomposer/Modules/Vendors/WooCommerceController.php:332
+msgid "Height:"
+msgstr "ارتفاع:"
+
+#: visualcomposer/Modules/Vendors/WooCommerceController.php:329
+msgid "Width:"
+msgstr "عرض:"
+
+#: visualcomposer/Modules/Vendors/WooCommerceController.php:325
+msgid "Length:"
+msgstr "طول:"
+
+#: visualcomposer/Modules/Editors/DataAjax/PostFieldsController.php:143
+#: visualcomposer/Modules/Editors/DataAjax/PostFieldsController.php:169
+#: visualcomposer/Modules/Editors/DataAjax/PostFieldsController.php:195
+#: visualcomposer/Modules/Editors/DataAjax/PostFieldsController.php:215
+msgid "Custom Fields"
+msgstr "فیلدهای سفارشی"
+
+#: visualcomposer/Helpers/Localizations.php:1490
+#: visualcomposer/Modules/Editors/DataAjax/PostFieldsController.php:77
+#: visualcomposer/Modules/Editors/DataAjax/PostFieldsController.php:97
+#: visualcomposer/Modules/Editors/DataAjax/PostFieldsController.php:117
+#: visualcomposer/Modules/Editors/DataAjax/PostFieldsController.php:137
+#: visualcomposer/Modules/Editors/DataAjax/PostFieldsController.php:163
+#: visualcomposer/Modules/Editors/DataAjax/PostFieldsController.php:189
+msgid "Author"
+msgstr "نویسنده"
+
+#: visualcomposer/Modules/Editors/DataAjax/PostFieldsController.php:71
+#: visualcomposer/Modules/Editors/DataAjax/PostFieldsController.php:91
+#: visualcomposer/Modules/Editors/DataAjax/PostFieldsController.php:111
+#: visualcomposer/Modules/Editors/DataAjax/PostFieldsController.php:131
+#: visualcomposer/Modules/Editors/DataAjax/PostFieldsController.php:157
+#: visualcomposer/Modules/Editors/DataAjax/PostFieldsController.php:183
+#: visualcomposer/Modules/Editors/DataAjax/PostFieldsController.php:209
+msgid "Site"
+msgstr "سایت"
+
+#: visualcomposer/Modules/Editors/DataAjax/PostFieldsController.php:65
+#: visualcomposer/Modules/Editors/DataAjax/PostFieldsController.php:85
+#: visualcomposer/Modules/Editors/DataAjax/PostFieldsController.php:105
+#: visualcomposer/Modules/Editors/DataAjax/PostFieldsController.php:125
+#: visualcomposer/Modules/Editors/DataAjax/PostFieldsController.php:151
+#: visualcomposer/Modules/Editors/DataAjax/PostFieldsController.php:177
+#: visualcomposer/Modules/Editors/DataAjax/PostFieldsController.php:203
+msgid "Post"
+msgstr "نوشته"
+
+#: visualcomposer/Helpers/Localizations.php:576
+msgid "No value set"
+msgstr "مقداری تنظیم نشده است"
+
+#: visualcomposer/Helpers/Localizations.php:572
+msgid "Dynamic Content"
+msgstr "محتوای دینامیک"
+
+#: visualcomposer/Helpers/Localizations.php:544
+msgid "Edit dynamic content"
+msgstr "ویرایش محتوای دینامیک"
+
+#: visualcomposer/Helpers/Localizations.php:548
+msgid "Remove dynamic content"
+msgstr "حذف محتوای دینامیک"
+
+#: visualcomposer/Helpers/Localizations.php:564
+msgid "Set custom post source"
+msgstr "تنظیم منبع نوع نوشته"
+
+#: visualcomposer/Helpers/Localizations.php:560
+msgid "By default, dynamic content is taken from the current post."
+msgstr "بطور پیشفرض، محتوای دینامیک از نوشته کنونی دریافت می شود."
+
+#: visualcomposer/Helpers/Localizations.php:540
+msgid "Insert dynamic content"
+msgstr "وارد کردن محتوای دینامیک"
+
+#: visualcomposer/Modules/Vendors/WooCommerceController.php:65
+msgid "Woocommerce Product Category"
+msgstr "دسته محصول ووکامرس"
+
+#: visualcomposer/Modules/Settings/Pages/SystemStatus.php:130
+msgid "Post max size should be %sM, currently it is %s"
+msgstr "اندازه حداکثر نوشته باید %sM باشد، اکنون این است %s"
+
+#: visualcomposer/Modules/Hub/StockMedia/StockMediaDownloadController.php:145
+msgid "Wrong image extension."
+msgstr "پسوند تصویر اشتباه."
+
+#: visualcomposer/Helpers/Localizations.php:532
+msgid "Permalink"
+msgstr "پیوندیکتا"
+
+#: visualcomposer/Helpers/Localizations.php:524
+msgid "images"
+msgstr "تصاویر"
+
+#: visualcomposer/Helpers/Localizations.php:520
+msgid "Large"
+msgstr "بزرگ"
+
+#: visualcomposer/Helpers/Localizations.php:516
+msgid "Medium"
+msgstr "متوسط"
+
+#: visualcomposer/Helpers/Localizations.php:512
+msgid "Small"
+msgstr "کوچک"
+
+#: visualcomposer/Helpers/Localizations.php:492
+msgid "Download and Add Free Beautiful Photos to Your Site"
+msgstr "دانلود و افزودن تصاویر زیبا به سایت شما"
+
+#: visualcomposer/Helpers/Localizations.php:488
+msgid "Download and Add Free Beautiful Photos to Your Site With Visual Composer Premium"
+msgstr "دانلود و افزودن رایگان تصاویر زیبا به سایت با استفاده از نسخه پولی افزونه"
+
+#: visualcomposer/Helpers/Localizations.php:133
+msgid "Page title"
+msgstr "عنوان برگه"
+
+#: visualcomposer/Helpers/Localizations.php:125
+msgid "Layout and Start Building"
+msgstr "طرح و شروع ساختن"
+
+#: visualcomposer/Helpers/Localizations.php:123
+msgid "Name Your Page, Select"
+msgstr "نام برگه شما، انتخاب"
+
+#: visualcomposer/resources/views/settings/pages/system-status.php:321
+msgid "Ability to send large data. In case if failed - adjust your php.ini file to increase memory_limit, post_max_size and execution time."
+msgstr "توانایی ارسال داده‌های بزرگ. در این مورد اگر شکست خورد - فایل php.ini را ویرایش کرده و مقادیر memory_limit, post_max_size و execution time را افزایش دهید."
+
+#: visualcomposer/resources/views/settings/pages/system-status.php:307
+msgid "AWS"
+msgstr "AWS"
+
+#: visualcomposer/resources/views/settings/pages/system-status.php:297
+msgid "Account"
+msgstr "حساب کاربری"
+
+#: visualcomposer/resources/views/settings/pages/system-status.php:292
+msgid "Connections"
+msgstr "ارتباطات"
+
+#: visualcomposer/resources/views/settings/pages/system-status.php:271
+msgid "The Zip Extension should be enabled on your server"
+msgstr "افزودنی Zip باید در سرور شما فعال باشد"
+
+#: visualcomposer/resources/views/settings/pages/system-status.php:262
+msgid "Extensions"
+msgstr "افزودنی‌ها"
+
+#: visualcomposer/resources/views/settings/pages/system-status.php:211
+msgid "Timeout"
+msgstr "وقفه"
+
+#: visualcomposer/resources/views/settings/pages/system-status.php:141
+msgid "Configurations"
+msgstr "پیکربندی"
+
+#: visualcomposer/resources/views/settings/pages/system-status.php:125
+msgid "There is a new version of Visual Composer Website Builder available."
+msgstr "نسخه جدیدی از سایت ساز ویژوال کامپوزر دردسترس است."
+
+#: visualcomposer/resources/views/settings/pages/system-status.php:104
+msgid "Displays whether of not WordPress is in Debug Mode"
+msgstr "نشان می دهد که آیا وردپرس در حالت اشکال‌زدایی است یا نه"
+
+#: visualcomposer/resources/views/settings/pages/system-status.php:100
+msgid "WP_DEBUG"
+msgstr "WP_DEBUG"
+
+#: visualcomposer/resources/views/settings/pages/system-status.php:75
+msgid "WordPress environment"
+msgstr "محیط ووکامرس"
+
+#: visualcomposer/resources/views/license/pages/license.php:55
+#: visualcomposer/resources/views/settings/pages/system-status.php:28
+msgid "Refresh"
+msgstr "تازه‌سازی"
+
+#: visualcomposer/resources/views/settings/pages/system-status.php:27
+msgid "Check system status and WordPress configuration for compliance with Visual Composer requirements."
+msgstr "بررسی وضعیت سیستم و پیکربندی وردپرس برای انطباق با ضروریات ویژوال کامپوزر."
+
+#: visualcomposer/Modules/Vendors/WooCommerceController.php:69
+msgid "Woocommerce Terms"
+msgstr "شرایط و ضوابط ووکامرس"
+
+#: visualcomposer/Modules/Vendors/WooCommerceController.php:61
+msgid "Woocommerce My Account"
+msgstr "حساب‌کاربری من ووکامرس"
+
+#: visualcomposer/Modules/Vendors/WooCommerceController.php:57
+msgid "Woocommerce Checkout"
+msgstr "پرداخت ووکامرس"
+
+#: visualcomposer/Modules/Vendors/WooCommerceController.php:53
+msgid "Woocommerce Cart"
+msgstr "سبدخرید ووکامرس"
+
+#: visualcomposer/Modules/Vendors/WooCommerceController.php:49
+msgid "Woocommerce Shop"
+msgstr "فروشگاه ووکامرس"
+
+#: visualcomposer/Modules/Settings/Pages/SystemStatus.php:246
+msgid "Connection with Account was unsuccessful"
+msgstr "برقراری ارتباط با حساب کاربری موفق نبود"
+
+#: visualcomposer/Modules/Settings/Pages/SystemStatus.php:238
+msgid "Connection with AWS was unsuccessful"
+msgstr "برقراری ارتباط با AWS موفق نبود"
+
+#: visualcomposer/Helpers/Localizations.php:929
+#: visualcomposer/Modules/Settings/Pages/SystemStatus.php:238
+#: visualcomposer/Modules/Settings/Pages/SystemStatus.php:246
+msgid "Success"
+msgstr "موفقیت"
+
+#: visualcomposer/Modules/Settings/Pages/SystemStatus.php:230
+msgid "Curl extension is not installed"
+msgstr "افزودنی Curl نصب نشده است"
+
+#: visualcomposer/Modules/Settings/Pages/SystemStatus.php:222
+msgid "Enabled"
+msgstr "فعال شده است"
+
+#: visualcomposer/Modules/Settings/Pages/SystemStatus.php:214
+msgid "FS_METHOD should be direct"
+msgstr "FS_METHOD باید مستقیم باشد"
+
+#: visualcomposer/Modules/Settings/Pages/SystemStatus.php:214
+msgid "Direct"
+msgstr "مستقیم"
+
+#: visualcomposer/Modules/Settings/Pages/SystemStatus.php:206
+msgid "Uploads directory is not writable"
+msgstr "دایرکتوری آپلودها قابل نوشتن نیست"
+
+#: visualcomposer/Modules/Settings/Pages/SystemStatus.php:206
+msgid "Writable"
+msgstr "قابل نوشتن"
+
+#: visualcomposer/Modules/Settings/Pages/SystemStatus.php:198
+msgid "File max upload size should be %sM, currently it is %s"
+msgstr "حداکثر حجم فایل آپلودی باید %sM باشد، اکنون اینه %s"
+
+#: visualcomposer/Modules/Settings/Pages/SystemStatus.php:189
+msgid "Max execution time should be %sS, currently it is %sS"
+msgstr "حداکثر execution time باید %sS, اکنون اینه %sS"
+
+#: visualcomposer/Modules/Settings/Pages/SystemStatus.php:180
+msgid "max_input_vars should be %s, currently it is %s"
+msgstr "max_input_vars باید %s, اکنون اینه %s"
+
+#: visualcomposer/Modules/Settings/Pages/SystemStatus.php:169
+msgid "max_input_nesting_level should be %s, currently it is %s"
+msgstr "max_input_nesting_level باید %s, اکنون اینه %s"
+
+#: visualcomposer/Modules/Settings/Pages/SystemStatus.php:158
+msgid "post_max_size limit should be %sM, currently it is %s"
+msgstr "محدودیت post_max_size باید %sM, اکنون اینه %s"
+
+#: visualcomposer/Modules/Settings/Pages/SystemStatus.php:144
+msgid "Memory limit should be %sM, currently it is %s"
+msgstr "محدودیت حافظه باید%sM، اکنون اینه %s"
+
+#: visualcomposer/Modules/Settings/Pages/SystemStatus.php:127
+#: visualcomposer/Modules/Settings/Pages/SystemStatus.php:141
+#: visualcomposer/Modules/Settings/Pages/SystemStatus.php:155
+msgid "Unlimited"
+msgstr "نامحدود"
+
+#: visualcomposer/Modules/Settings/Pages/SystemStatus.php:107
+msgid "WordPress version %s or greater"
+msgstr "نسخه وردپرس %s یا بیشتر"
+
+#: visualcomposer/Modules/Settings/Pages/SystemStatus.php:99
+msgid "PHP version %s or greater (recommended 7 or greater)"
+msgstr "نسخه PHP %s یا بیشتر ( نسخه 7 توصیه شده یا بیشتر)"
+
+#: visualcomposer/Modules/Settings/Pages/SystemStatus.php:298
+msgid "System Status"
+msgstr "وضعیت سیستم"
+
+#: visualcomposer/Modules/Settings/Fields/JsEditor.php:61
+msgid "Custom HTML and JavaScript"
+msgstr "کد HTML و جاوااسکریپت سفارشی"
+
+#: visualcomposer/Modules/Settings/Fields/JsEditor.php:52
+msgid "Add custom HTML or JavaScript code to insert it globally on every page in <header> and <footer>. Insert Google Analytics, Tag Manager, Kissmetrics or other JavaScript code snippets."
+msgstr "افزودن HTML سفارشی یا جاوااسکریپت بصورت سراسری در هر برگه در <header> و <footer>. افزودن گوگل آنالیز، تگ منیجر، کیسمتریک یا کدهای جاوااسکریپت."
+
+#: visualcomposer/Helpers/Localizations.php:472
+msgid "Shortcode"
+msgstr "کدکوتاه"
+
+#: visualcomposer/Modules/Vendors/Gutenberg/SettingsController.php:97
+msgid "Gutenberg"
+msgstr "گوتنبرگ"
+
+#: visualcomposer/Modules/License/UpdateVariablesController.php:84
+msgid "Control every detail of your website with flexible design options and customization tools."
+msgstr "کنترل تمام جزئیات سایت شما با طراحی منعطف و ابزار سفارشی سازی حرفه ای."
+
+#: visualcomposer/Modules/License/UpdateVariablesController.php:66
+msgid "Get more elements and templates from the Visual Composer Hub - a free online marketplace."
+msgstr "از هاب ویژوال کامپوزر پوسته‌ها و عناصر مورد نیاز را دانلود کنید - فروشگاه آنلاین رایگان."
+
+#: visualcomposer/Modules/License/Pages/GettingStarted.php:113
+#: visualcomposer/Modules/License/Pages/GettingStarted.php:132
+msgid "Getting Started"
+msgstr "شروع کنید"
+
+#: visualcomposer/Helpers/Localizations.php:454
+msgid "Oops ... Something Went Wrong"
+msgstr "اوه... خطایی رخ داد"
+
+#: visualcomposer/Helpers/Localizations.php:449
+msgid "Sending Error Report"
+msgstr "ارسال گزارش خطا"
+
+#: visualcomposer/Helpers/Localizations.php:448
+msgid "Get Started"
+msgstr "شروع کنید"
+
+#: visualcomposer/Helpers/Localizations.php:436
+msgid "Click to edit column value"
+msgstr "برای ویرایش مقدار ستون کلیک کنید"
+
+#: visualcomposer/Helpers/Localizations.php:435
+msgid "Editor Settings"
+msgstr "تنظیمات ویرایشگر"
+
+#: visualcomposer/Helpers/Localizations.php:106
+msgid "Get More Templates"
+msgstr "گرفتن پوسته های بیشتر"
+
+#: visualcomposer/Helpers/Localizations.php:105
+msgid "Get More Elements"
+msgstr "گرفتن عناصر بیشتر"
+
+#: visualcomposer/Framework/helpers.php:261
+msgid "WordPress Error: %s"
+msgstr "خطای وردپرس: %s"
+
+#: visualcomposer/Framework/helpers.php:247
+msgid "We could not copy a directory for the plugin in wp-content/uploads. Please check if your server has write permissions for wp-content/uploads."
+msgstr "نمی توانیم دایرکتوری برای افزونه را در wp-content/uploads کپی کنیم. لطفا دسترسی نوشتن برای wp-content/uploads بررسی کنید."
+
+#: visualcomposer/Helpers/Localizations.php:1911
+#: visualcomposer/resources/views/settings/pages/index.php:107
+#: visualcomposer/resources/views/settings/pages/role-manager/role-manager.php:256
+msgid "Save Changes"
+msgstr "ذخیره تغییرات"
+
+#: visualcomposer/resources/views/settings/fields/post-types/post-types-toggle.php:24
+#: visualcomposer/resources/views/settings/fields/toggle.php:20
+msgid "off"
+msgstr "خاموش"
+
+#: visualcomposer/resources/views/settings/fields/post-types/post-types-toggle.php:23
+#: visualcomposer/resources/views/settings/fields/toggle.php:19
+msgid "on"
+msgstr "روشن"
+
+#: visualcomposer/resources/views/editor/pageEditable/pageEditable.php:23
+msgid "Loading..."
+msgstr "بارگذاری..."
+
+#: visualcomposer/Helpers/Localizations.php:444
+msgid "Skip this post"
+msgstr "رد شدن از این نوشته"
+
+#: visualcomposer/Helpers/Localizations.php:480
+#: visualcomposer/Modules/License/Pages/GoPremium.php:135
+#: visualcomposer/Modules/License/Pages/GoPremium.php:164
+#: visualcomposer/resources/views/license/pages/license.php:33
+msgid "Activate Premium"
+msgstr "فعالسازی پریمیوم"
+
+#: visualcomposer/Modules/Vendors/Gutenberg/AttributeController.php:99
+msgid "No Gutenberg attrs found in Trash."
+msgstr "هیچ attrs گوتنبرگ در زباله دان یافت نشد."
+
+#: visualcomposer/Modules/Vendors/Gutenberg/AttributeController.php:98
+msgid "No Gutenberg attrs found."
+msgstr "هیچ attrs گوتنبرگ یافت نشد."
+
+#: visualcomposer/Modules/Vendors/Gutenberg/AttributeController.php:97
+msgid "Parent Gutenberg attrs:"
+msgstr "گوتنبرگ attrs والد:"
+
+#: visualcomposer/Modules/Vendors/Gutenberg/AttributeController.php:96
+msgid "Search Gutenberg attrs"
+msgstr "جستجوی attrs گوتنبرگ"
+
+#: visualcomposer/Modules/Vendors/Gutenberg/AttributeController.php:95
+msgid "All Gutenberg attrs"
+msgstr "همه گوتنبرگ attr"
+
+#: visualcomposer/Modules/Vendors/Gutenberg/AttributeController.php:94
+msgid "View Gutenberg attr"
+msgstr "مشاهده گوتنبرگ attr"
+
+#: visualcomposer/Modules/Vendors/Gutenberg/AttributeController.php:93
+msgid "Edit Gutenberg attr"
+msgstr "ویرایش گوتنبرگ attr"
+
+#: visualcomposer/Modules/Vendors/Gutenberg/AttributeController.php:92
+msgid "New Gutenberg attr"
+msgstr "گوتنبرگ جدید attr"
+
+#: visualcomposer/Modules/Vendors/Gutenberg/AttributeController.php:91
+msgid "Add New Gutenberg attr"
+msgstr "افزودن گوتنبرگ attr جدید"
+
+#: visualcomposer/Modules/Vendors/Gutenberg/AttributeController.php:90
+msgid "Add New"
+msgstr "افزودن جدید"
+
+#: visualcomposer/Modules/Vendors/Gutenberg/SettingsController.php:81
+msgid "Gutenberg Editor"
+msgstr "ویرایشگر گوتنبرگ"
+
+#: visualcomposer/resources/views/settings/pages/role-manager/parts/post-types.php:16
+msgid "Post Types"
+msgstr "انواع نوشته"
+
+#: visualcomposer/Modules/Settings/NoticeController.php:86
+msgid "Dismiss"
+msgstr "رد کردن"
+
+#: visualcomposer/Modules/Settings/Fields/FactoryResetController.php:118
+msgid "Session expired"
+msgstr "نشست منقضی شد"
+
+#: visualcomposer/Helpers/Localizations.php:1297
+#: visualcomposer/Modules/Settings/Fields/FactoryResetController.php:90
+msgid "Reset"
+msgstr "بازنشانی"
+
+#: visualcomposer/Modules/Settings/Fields/FactoryResetController.php:77
+msgid "Restore default plugin state to re-download all installed bundles and auto-configure path after migration (don’t worry, the content of the site will not be affected) - %s."
+msgstr "وضعیت افزونه به حالت پیشفرض بازنشانی شد برای دانلود مجدد همه بسته ها و پیکربندی خودکار مسیر بعد از مهاجرت (نگران نباشید، محتوای سایت شما تغییر نمی یابد) - %s."
+
+#: visualcomposer/Modules/Settings/Fields/FactoryResetController.php:68
+msgid "initiate reset"
+msgstr "بازنشانی مجدد کنید"
+
+#: visualcomposer/Modules/Settings/Fields/FactoryResetController.php:67
+msgid "Proceed with a reset?"
+msgstr "میخواهید بازنشانی کنید؟"
+
+#: visualcomposer/Modules/Editors/Templates/PostType.php:38
+#: visualcomposer/Modules/Hub/Pages/PremiumTeasers.php:56
+msgid "Global Templates"
+msgstr "پوسته‌های کلی"
+
+#: visualcomposer/Modules/Editors/Settings/PageTemplatesVariablesController.php:133
+msgid "Theme Templates"
+msgstr "پوسته‌های قالب"
+
+#: visualcomposer/Helpers/Localizations.php:357
+#: visualcomposer/Modules/Editors/Settings/PageTemplatesVariablesController.php:116
+msgid "Default"
+msgstr "پیشفرض"
+
+#. Plugin Name of the plugin
+#: visualcomposer/Helpers/PostData.php:100
+#: visualcomposer/Helpers/PostType.php:203
+#: visualcomposer/Modules/Editors/Settings/PageTemplatesVariablesController.php:83
+#: visualcomposer/Modules/Editors/Settings/PageTemplatesVariablesController.php:96
+#: visualcomposer/Modules/Settings/MenuController.php:68
+#: visualcomposer/Modules/Vendors/DashboardController.php:34
+msgid "Visual Composer"
+msgstr "ویژوال کامپوزر"
+
+#: visualcomposer/Modules/Editors/Frontend/MenuController.php:158
+msgid "Add New with Visual&nbsp;Composer"
+msgstr "افزودن جدید با ویژوال کامپوزر"
+
+#: visualcomposer/Modules/Editors/EditPostLinks/Controller.php:137
+#: visualcomposer/Modules/Editors/Frontend/MenuController.php:89
+msgid "Add New with Visual Composer"
+msgstr "افزودن جدید با ویژوال کامپوزر"
+
+#: visualcomposer/Modules/Hub/Assets/AssetDownloadController.php:138
+msgid "Failed to update shared libraries"
+msgstr "بروزرسانی کتابخوانه اشتراکی شکست خورد"
+
+#: visualcomposer/Helpers/Token.php:124
+msgid "Your Visual Composer Website Builder License will expire soon - %s"
+msgstr "لایسنس شما به‌زودی منقضی می شود - %s"
+
+#: visualcomposer/Helpers/Localizations.php:917
+#: visualcomposer/Helpers/PostsGridSourcePosts.php:38
+msgid "All"
+msgstr "همه"
+
+#: visualcomposer/Helpers/PostType.php:265
+#: visualcomposer/Modules/Editors/Tutorial/PostType.php:76
+#: visualcomposer/Modules/Editors/Tutorial/PostType.php:77
+msgid "View %s"
+msgstr "مشاهده  %s"
+
+#: visualcomposer/Helpers/Localizations.php:765
+#: visualcomposer/Helpers/LoginCategory.php:37
+msgid "Other"
+msgstr "دیگر"
+
+#: visualcomposer/Helpers/LoginCategory.php:36
+msgid "Travel & Accommodation"
+msgstr "مسافرت و اقامت"
+
+#: visualcomposer/Helpers/LoginCategory.php:35
+msgid "Services"
+msgstr "سرویس‌ها"
+
+#: visualcomposer/Helpers/LoginCategory.php:34
+msgid "Restaurants & Food"
+msgstr "رستوران و غذا"
+
+#: visualcomposer/Helpers/LoginCategory.php:33
+msgid "Portfolio & Personal"
+msgstr "نمونه‌کار و شخصی"
+
+#: visualcomposer/Helpers/LoginCategory.php:32
+msgid "Photography"
+msgstr "عکاسی"
+
+#: visualcomposer/Helpers/LoginCategory.php:31
+msgid "Online Store"
+msgstr "فروشگاه آنلاین"
+
+#: visualcomposer/Helpers/LoginCategory.php:30
+msgid "Landing Pages"
+msgstr "برگه‌های فرود"
+
+#: visualcomposer/Helpers/LoginCategory.php:29
+msgid "Health & Wellness"
+msgstr "سلامتی و بهبود"
+
+#: visualcomposer/Helpers/LoginCategory.php:28
+msgid "Fashion & Beauty"
+msgstr "مد و زیبایی"
+
+#: visualcomposer/Helpers/LoginCategory.php:27
+msgid "Events"
+msgstr "رویدادها"
+
+#: visualcomposer/Helpers/LoginCategory.php:26
+msgid "Entertainment & Music"
+msgstr "سرگرمی و موزیک"
+
+#: visualcomposer/Helpers/LoginCategory.php:25
+msgid "Design"
+msgstr "طرح"
+
+#: visualcomposer/Helpers/LoginCategory.php:24
+msgid "Community & Education"
+msgstr "انجمن و آموزش"
+
+#: visualcomposer/Helpers/LoginCategory.php:23
+msgid "Creative Arts"
+msgstr "هنر خلاقانه"
+
+#: visualcomposer/Helpers/LoginCategory.php:22
+#: visualcomposer/resources/views/vendors/dashboard.php:116
+msgid "Blog"
+msgstr "بلاگ"
+
+#: visualcomposer/Helpers/LoginCategory.php:21
+msgid "Business"
+msgstr "بیزینس"
+
+#: visualcomposer/Helpers/Localizations.php:431
+msgid "Back to parent"
+msgstr "بازگشت به والد"
+
+#: visualcomposer/Helpers/Localizations.php:430
+msgid "Starting import process..."
+msgstr "شروع به پردازش درون‌ریزی..."
+
+#: visualcomposer/Helpers/Localizations.php:429
+msgid "Back to import"
+msgstr "بازگشت به درون‌ریزی"
+
+#: visualcomposer/Helpers/Localizations.php:427
+msgid "Remove All"
+msgstr "همه را حذف کنید"
+
+#: visualcomposer/Helpers/Localizations.php:426
+#: visualcomposer/Helpers/Localizations.php:446
+msgid "Premium"
+msgstr "پولی"
+
+#: visualcomposer/Helpers/Localizations.php:425
+msgid "Free"
+msgstr "رایگان"
+
+#: visualcomposer/Helpers/Localizations.php:383
+msgid "%s Name"
+msgstr "%s نام"
+
+#: visualcomposer/Helpers/Localizations.php:381
+msgid "Start Building"
+msgstr "شروع به ساختن کنید"
+
+#: visualcomposer/Helpers/Localizations.php:373
+msgid "Update Visual Composer plugin to the most recent version to download this template."
+msgstr "ویژوال کامپوزر را برای دریافت این پوسته به جدیدترین نسخه اش بروزرسانی کنید."
+
+#: visualcomposer/Helpers/Localizations.php:369
+msgid "Update Visual Composer plugin to the most recent version to download this content element."
+msgstr "ویژوال کامپوزر را برای دریافت این عنصر محتوا به جدیدترین نسخه اش بروزرسانی کنید."
+
+#: visualcomposer/Helpers/Localizations.php:336
+msgid "Thank You!"
+msgstr "با تشکر!"
+
+#: visualcomposer/Helpers/Localizations.php:311
+#: visualcomposer/Helpers/Localizations.php:319
+#: visualcomposer/Helpers/Localizations.php:332
+msgid "Return to WordPress dashboard"
+msgstr "بازگشت به پیشخوان وردپرس"
+
+#: visualcomposer/Helpers/Localizations.php:280
+msgid "To apply title changes save changes and reload the page"
+msgstr "برای اعمال تغییرات عنوان آن را ذخیره کرده و مجدد صفحه را بارگذاری کنید"
+
+#: visualcomposer/Helpers/Localizations.php:271
+msgid "Theme Default"
+msgstr "پیشفرض قالب"
+
+#: visualcomposer/Helpers/Localizations.php:270
+msgid "Template"
+msgstr "پوسته"
+
+#: visualcomposer/Helpers/Localizations.php:264
+#: visualcomposer/Modules/Editors/Settings/WordPressSettings/ParentPageController.php:52
+#: visualcomposer/Modules/Settings/Pages/MaintenanceMode.php:175
+msgid "None"
+msgstr "هیچکدام"
+
+#: visualcomposer/Helpers/Localizations.php:263
+msgid "Failed to load: {file}"
+msgstr "بارگذاری انجام نشد: {file}"
+
+#: visualcomposer/Helpers/Localizations.php:262
+msgid "Updating posts {i} in {cnt}: {name}"
+msgstr "بروزرسانی posts {i} in {cnt}: {name}"
+
+#: visualcomposer/Helpers/Localizations.php:260
+msgid "Downloading assets {i} of {cnt}: {name}"
+msgstr "دانلود assets {i} of {cnt}: {name}"
+
+#: visualcomposer/Helpers/Localizations.php:259
+msgid "Downloading initial extensions"
+msgstr "دانلود نخستین اکستنش‌ها"
+
+#: visualcomposer/Helpers/Localizations.php:247
+msgid "Saving Results"
+msgstr "ذخیره کردن تغییرات"
+
+#: visualcomposer/Helpers/Localizations.php:246
+msgid "Preview Changes"
+msgstr "پیشنمایش تغییرات"
+
+#: visualcomposer/Helpers/Localizations.php:245
+#: visualcomposer/Modules/Editors/Settings/ItemPreviewController.php:71
+msgid "Preview"
+msgstr "پیشنمایش"
+
+#: visualcomposer/Helpers/Localizations.php:242
+msgid "Title"
+msgstr "عنوان"
+
+#: visualcomposer/Helpers/Localizations.php:222
+msgid "Search existing content"
+msgstr "جستجوی محتوای موجود"
+
+#: visualcomposer/Helpers/Localizations.php:209
+#: visualcomposer/Helpers/Localizations.php:237
+msgid "Nothing found"
+msgstr "چیزی یافت نشد"
+
+#: visualcomposer/Helpers/Localizations.php:191
+msgid "Open Visual Composer Hub"
+msgstr "هاب ویژوال کامپوزر را باز کنید"
+
+#: visualcomposer/Helpers/Localizations.php:189
+msgid "Blank Page"
+msgstr "برگه خالی"
+
+#: visualcomposer/Helpers/Localizations.php:178
+msgid "Classic Editor"
+msgstr "ویرایشگر کلاسیک"
+
+#: visualcomposer/Helpers/Localizations.php:177
+#: visualcomposer/Modules/Editors/EditPostLinks/Controller.php:81
+#: visualcomposer/Modules/Editors/EditPostLinks/Controller.php:115
+#: visualcomposer/Modules/Editors/EditPostLinks/Controller.php:116
+#: visualcomposer/Modules/Editors/EditPostLinks/Controller.php:169
+msgid "Edit with Visual Composer"
+msgstr "ویرایش با ویژوال کامپوزر"
+
+#: visualcomposer/Helpers/Localizations.php:175
+msgid "Add custom row layout"
+msgstr "افزودن طرح ردیف سفارشی"
+
+#: visualcomposer/Helpers/Localizations.php:174
+msgid "Add five columns"
+msgstr "افزودن پنج ستون"
+
+#: visualcomposer/Helpers/Localizations.php:173
+msgid "Add four columns"
+msgstr "افزودن چهار ستون"
+
+#: visualcomposer/Helpers/Localizations.php:172
+msgid "Add three columns"
+msgstr "افزودن سه ستون"
+
+#: visualcomposer/Helpers/Localizations.php:171
+msgid "Add two columns"
+msgstr "افزودن دو ستون"
+
+#: visualcomposer/Helpers/Localizations.php:170
+msgid "Add one column"
+msgstr "افزودن یک ستون"
+
+#: visualcomposer/Helpers/Localizations.php:160
+msgid "Move"
+msgstr "انتقال"
+
+#: visualcomposer/Helpers/Localizations.php:159
+msgid "Remove"
+msgstr "حذف"
+
+#: visualcomposer/Helpers/Localizations.php:158
+msgid "Paste After"
+msgstr "چسباندن بعد از"
+
+#: visualcomposer/Helpers/Localizations.php:157
+msgid "Paste"
+msgstr "چسباندن"
+
+#: visualcomposer/Helpers/Localizations.php:156
+msgid "Copy"
+msgstr "کپی"
+
+#: visualcomposer/Helpers/Localizations.php:155
+msgid "Clone"
+msgstr "شبیه‌سازی"
+
+#: visualcomposer/Helpers/Localizations.php:154
+msgid "Design Options"
+msgstr "تنظیمات طرح"
+
+#: visualcomposer/Helpers/Localizations.php:153
+#: visualcomposer/Modules/Editors/Tutorial/PostType.php:73
+msgid "Edit"
+msgstr "ویرایش"
+
+#: visualcomposer/Helpers/Localizations.php:152
+msgid "Row Layout"
+msgstr "طرح ردیف"
+
+#: visualcomposer/Helpers/Localizations.php:151
+msgid "Add"
+msgstr "افزودن"
+
+#: visualcomposer/Helpers/Localizations.php:127
+msgid "and Start Building"
+msgstr "و شروع به ساخت"
+
+#: visualcomposer/Helpers/Localizations.php:126
+msgid "Name Your "
+msgstr "نام شما "
+
+#: visualcomposer/Helpers/Localizations.php:104
+msgid "Download More Templates"
+msgstr "دانلود پوسته‌های بیشتر"
+
+#: visualcomposer/Helpers/Localizations.php:102
+msgid "Remove Template"
+msgstr "پوسته را حذف کنید"
+
+#: visualcomposer/Helpers/Localizations.php:101
+msgid "Save Template"
+msgstr "ذخیره پوسته"
+
+#: visualcomposer/Helpers/Localizations.php:98
+msgid "Save"
+msgstr "ذخیره"
+
+#: visualcomposer/Helpers/Localizations.php:96
+msgid "Global JavaScript"
+msgstr "جاوا اسکریپت سراسری"
+
+#: visualcomposer/Helpers/Localizations.php:94
+msgid "Local JavaScript"
+msgstr "جاوا اسکریپت داخلی"
+
+#: visualcomposer/Helpers/Localizations.php:93
+msgid "Custom JavaScript"
+msgstr "جاوا اسکریپت سفارشی"
+
+#: visualcomposer/Helpers/Localizations.php:92
+msgid "Global CSS"
+msgstr "استایل CSS سراسری"
+
+#: visualcomposer/Helpers/Localizations.php:91
+msgid "Local CSS"
+msgstr "استایل CSS داخلی"
+
+#: visualcomposer/Helpers/Localizations.php:90
+#: visualcomposer/Modules/Settings/Fields/CssEditor.php:59
+msgid "Custom CSS"
+msgstr "استایل CSS سفارشی"
+
+#: visualcomposer/Helpers/Localizations.php:85
+msgid "Close"
+msgstr "بستن"
+
+#: visualcomposer/Helpers/Localizations.php:82
+#: visualcomposer/Modules/Vendors/PluginsController.php:142
+#: visualcomposer/resources/views/license/pages/license.php:38
+#: visualcomposer/resources/views/partials/teaser.php:25
+#: visualcomposer/resources/views/settings/layouts/dashboard-main-layout.php:359
+#: visualcomposer/resources/views/vendors/dashboard.php:130
+msgid "Go Premium"
+msgstr "خرید پریمیوم"
+
+#: visualcomposer/Helpers/Localizations.php:81
+msgid "Save Draft"
+msgstr "ذخیره پیشنویس"
+
+#: visualcomposer/Helpers/Localizations.php:80
+msgid "Submit for Review"
+msgstr "ارسال برای بررسی"
+
+#: visualcomposer/Helpers/Localizations.php:79
+msgid "Publish"
+msgstr "انتشار"
+
+#: visualcomposer/Helpers/Localizations.php:78
+msgid "WordPress Dashboard"
+msgstr "پیشخوان وردپرس"
+
+#: visualcomposer/Helpers/Localizations.php:76
+msgid "Back to WordPress"
+msgstr "بازگشت به وردپرس"
+
+#: visualcomposer/Helpers/Localizations.php:75
+msgid "View Page"
+msgstr "برگه مشاهده"
+
+#: visualcomposer/Helpers/Localizations.php:74
+#: visualcomposer/Helpers/Localizations.php:1942
+msgid "Menu"
+msgstr "فهرست"
+
+#: visualcomposer/Helpers/Localizations.php:73
+#: visualcomposer/Modules/Hub/Pages/UpdateBePage.php:88
+msgid "Update"
+msgstr "بروزرسانی"
+
+#: visualcomposer/Modules/Settings/Pages/Settings.php:66
+#: visualcomposer/Modules/Settings/Pages/Settings.php:67
+#: visualcomposer/Modules/Settings/SettingsController.php:171
+msgid "Settings"
+msgstr "تنظیمات"
+
+#: visualcomposer/Helpers/Localizations.php:71
+msgid "Mobile Portrait"
+msgstr "حالت Portrait موبایل"
+
+#: visualcomposer/Helpers/Localizations.php:70
+msgid "Mobile Landscape"
+msgstr "حالت Landscape موبایل"
+
+#: visualcomposer/Helpers/Localizations.php:69
+msgid "Tablet Portrait"
+msgstr "حالت Portrait تبلت"
+
+#: visualcomposer/Helpers/Localizations.php:68
+msgid "Tablet Landscape"
+msgstr "حالت Landscape تبلت"
+
+#: visualcomposer/Helpers/Localizations.php:67
+msgid "Desktop"
+msgstr "دسکتاپ"
+
+#: visualcomposer/Helpers/Localizations.php:66
+msgid "Responsive View"
+msgstr "حالت واکنشگرا"
+
+#: visualcomposer/Helpers/Localizations.php:65
+msgid "Redo"
+msgstr "عدم لغو"
+
+#: visualcomposer/Helpers/Localizations.php:64
+msgid "Undo"
+msgstr "لغو"
+
+#: visualcomposer/Helpers/Localizations.php:63
+msgid "Tree View"
+msgstr "حالت درختی"
+
+#: visualcomposer/Helpers/Localizations.php:62
+msgid "Add Template"
+msgstr "افزودن پوسته"
+
+#: visualcomposer/Helpers/Localizations.php:59
+msgid "Add Element"
+msgstr "افزودن عنصر"
+
+#: visualcomposer/Helpers/License.php:169
+msgid "Visual Composer Website Builder license has been deactivated."
+msgstr "لایسنس سایت ساز غیرفعال شد."
+
+#: visualcomposer/Helpers/Hub/Download.php:36
+msgid "Templates library"
+msgstr "کتابخوانه پوسته‌ها"
+
+#: visualcomposer/Helpers/Hub/Download.php:33
+msgid "Library extensions"
+msgstr "توسعه های کتابخوانه"
+
+#: visualcomposer/Helpers/Hub/Download.php:30
+msgid "Categories bundle"
+msgstr "بسته دسته‌ها"
+
+#: visualcomposer/Helpers/Hub/Download.php:27
+msgid "Editor bundle"
+msgstr "بسته نرم افزار ویرایشگر"
+
+#: visualcomposer/Helpers/EditorTemplates.php:100
+msgid "My Templates"
+msgstr "پوسته‌های من"
+
+#: visualcomposer/Modules/Editors/Settings/ItemPreviewController.php:57
+msgid "Enable Preview"
+msgstr "فعال کردن پیش‌نمایش"
+
+#: visualcomposer/Helpers/Localizations.php:1538
+#: visualcomposer/Modules/Settings/Pages/Settings.php:68
+msgid "General"
+msgstr "عمومی"
+
+#: visualcomposer/Modules/Vendors/Gutenberg/AttributeController.php:145
+msgctxt "Screen reader text for the items list heading on the post type listing screen. Default “Posts list”/”Pages list”. Added in 4.4"
+msgid "Gutenberg attrs list"
+msgstr "لیست attrs گوتنبرگ"
+
+#: visualcomposer/Modules/Vendors/Gutenberg/AttributeController.php:140
+msgctxt "Screen reader text for the pagination heading on the post type listing screen. Default “Posts list navigation”/”Pages list navigation”. Added in 4.4"
+msgid "Gutenberg attrs list navigation"
+msgstr "راهبری فهرست attrs گوتنبرگ"
+
+#: visualcomposer/Modules/Vendors/Gutenberg/AttributeController.php:135
+msgctxt "Screen reader text for the filter links heading on the post type listing screen. Default “Filter posts list”/”Filter pages list”. Added in 4.4"
+msgid "Filter Gutenberg attrs list"
+msgstr "فهرست attrs صافی گوتنبرگ"
+
+#: visualcomposer/Modules/Vendors/Gutenberg/AttributeController.php:130
+msgctxt "Overrides the “Uploaded to this post”/”Uploaded to this page” phrase (used when viewing media attached to a post). Added in 4.4"
+msgid "Uploaded to this Gutenberg attr"
+msgstr "ارسال شده در attrs گوتنبرگ"
+
+#: visualcomposer/Modules/Vendors/Gutenberg/AttributeController.php:125
+msgctxt "Overrides the “Insert into post”/”Insert into page” phrase (used when inserting media into a post). Added in 4.4"
+msgid "Add into Gutenberg attr"
+msgstr "افزودن در attrs گوتنبرگ"
+
+#: visualcomposer/Modules/Vendors/Gutenberg/AttributeController.php:120
+msgctxt "The post type archive label used in nav menus. Default “Post Archives”. Added in 4.4"
+msgid "Gutenberg attr archives"
+msgstr "بایگانی‌های attrs گوتنبرگ"
+
+#: visualcomposer/Modules/Vendors/Gutenberg/AttributeController.php:110
+msgctxt "Overrides the “Remove featured image” phrase for this post type. Added in 4.3"
+msgid "Remove cover image"
+msgstr "حذف تصویر کاور"
+
+#: visualcomposer/Modules/Vendors/Gutenberg/AttributeController.php:105
+msgctxt "Overrides the “Set featured image” phrase for this post type. Added in 4.3"
+msgid "Set cover image"
+msgstr "تنظیم تصویر کاور"
+
+#: visualcomposer/Modules/Vendors/Gutenberg/AttributeController.php:100
+msgctxt "Overrides the “Featured Image” phrase for this post type. Added in 4.3"
+msgid "Gutenberg attr Cover Image"
+msgstr "تصویر کاور attrs گوتنبرگ"
+
+#: visualcomposer/Modules/Vendors/Gutenberg/AttributeController.php:89
+msgctxt "Add New on Toolbar"
+msgid "Gutenberg attr"
+msgstr "attrs گوتنبرگ"
+
+#: visualcomposer/Modules/Vendors/Gutenberg/AttributeController.php:88
+msgctxt "Admin Menu text"
+msgid "Gutenberg attrs"
+msgstr "attrs گوتنبرگ"
+
+#: visualcomposer/Modules/Vendors/Gutenberg/AttributeController.php:87
+msgctxt "Post type singular name"
+msgid "Gutenberg attr"
+msgstr "attrs گوتنبرگ"
+
+#: visualcomposer/Modules/Vendors/Gutenberg/AttributeController.php:86
+msgctxt "Post type general name"
+msgid "Gutenberg attrs"
+msgstr "attrs گوتنبرگ"
+
+#. Author of the plugin
+msgid "visualcomposer.com"
+msgstr "visualcomposer.com"
+
+#. Description of the plugin
+msgid "Create your WordPress website with the fast and easy-to-use drag-and-drop builder for experts and beginners."
+msgstr "با ابزار کشیدن و رها کردن به راحتی و سرعت سایت وردپرسی خود را بسازید."

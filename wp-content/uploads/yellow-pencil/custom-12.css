@@ -1,0 +1,251 @@
+/*
+
+    The following CSS codes are created by the YellowPencil plugin.
+    https://yellowpencil.waspthemes.com/
+
+
+    T A B L E   O F   C O N T E N T S
+    ........................................................................
+
+    01. "پایه‌های تحصیلی" Page
+    02. "Home" Page
+    03. "درباره ما" Page
+
+*/
+
+
+
+/*-----------------------------------------------*/
+/*  "پایه‌های تحصیلی" Page        */
+/*-----------------------------------------------*/
+body.page-id-10 .wp-container-37 .wp-block-post-date time{
+	display:none;
+}
+
+
+
+/*-----------------------------------------------*/
+/*  "Home" Page                                  */
+/*-----------------------------------------------*/
+body.page-id-5 .wp-container-10 .wp-block-spacer{
+	display:none;
+}
+
+body.page-id-5 .wp-container-15 .wp-block-spacer{
+	display:none;
+}
+
+body.page-id-5 .wp-container-20 .wp-block-spacer{
+	display:none;
+}
+
+body.page-id-5 .wp-container-24 .wp-block-spacer{
+	display:none;
+}
+
+body.page-id-5 .vce-text-block-wrapper .wp-block-cover .wp-block-spacer{
+	display:none;
+}
+
+body.page-id-5 .vce-text-block-wrapper .wp-container-9{
+	display:none;
+}
+
+body.page-id-5 .vce-text-block .vce-text-block-wrapper .wp-block-spacer{
+	display:none;
+}
+
+body.page-id-5 #content{
+	display:inline-block;
+	-webkit-transform:translatex(0px) translatey(0px) !important;	-ms-transform:translatex(0px) translatey(0px) !important;	transform:translatex(0px) translatey(0px) !important;
+}
+
+body.page-id-5 .vce-text-block-wrapper .wp-container-12 p{
+	display:none;
+}
+
+body.page-id-5 .vce-text-block-wrapper .wp-container-11{
+	display:none;
+}
+
+body.page-id-5 .vce-text-block-wrapper .wp-container-12 h2{
+	display:none;
+}
+
+body.page-id-5 .wp-container-13 .wp-block-image .wp-image-40{
+	display:none;
+}
+
+body.page-id-5 .vce-text-block-wrapper .wp-block-cover:nth-child(12) .wp-block-cover__inner-container{
+	display:none;
+}
+
+body.page-id-5 .vce-text-block-wrapper .wp-block-image .wp-image-35{
+	display:none;
+}
+
+body.page-id-5 .vce-text-block-wrapper .wp-container-18 p{
+	display:none;
+}
+
+body.page-id-5 .vce-text-block-wrapper .wp-container-18 h2{
+	display:none;
+}
+
+body.page-id-5 .wp-container-17 .wp-block-button .wp-block-button__link{
+	display:none;
+}
+
+body.page-id-5 .vce-text-block-wrapper .wp-block-cover .wp-container-19{
+	display:none;
+}
+
+body.page-id-5 .vce-text-block-wrapper a .wp-image-40{
+	display:none;
+}
+
+body.page-id-5 .wp-block-cover .wp-block-cover__inner-container .wp-container-24 .wp-block-group__inner-container h2{
+	display:none;
+}
+
+body.page-id-5 .vce-text-block-wrapper a .wp-image-39{
+	display:none;
+}
+
+body.page-id-5 .vce-text-block-wrapper .wp-block-cover:nth-child(16) .wp-block-cover__inner-container{
+	display:none;
+}
+
+body.page-id-5 .vce-text-block .vce-text-block-wrapper .wp-block-cover:nth-child(16){
+
+	display:none;
+}
+
+body.page-id-5 .vce-text-block-wrapper .wp-block-cover .wp-container-29{
+	display:none;
+}
+
+body.page-id-5 .vce-text-block-wrapper .wp-block-cover:nth-child(20) h2{
+	display:none;
+}
+
+body.page-id-5 .vce-text-block .vce-text-block-wrapper .wp-block-cover:nth-child(20){
+
+	display:none;
+}
+
+body.page-id-5 .vce-text-block-wrapper .wp-block-cover:nth-child(18) .wp-block-cover__inner-container{
+	display:none;
+}
+
+body.page-id-5 .vce-text-block .vce-text-block-wrapper .wp-block-cover:nth-child(18){
+
+	display:none;
+}
+
+body.page-id-5 .vce-text-block .vce-text-block-wrapper .wp-block-cover:nth-child(14){
+
+	display:none;
+}
+
+body.page-id-5 .vce-text-block .vce-text-block-wrapper .wp-block-cover:nth-child(12){
+
+	display:none;
+}
+
+body.page-id-5 .vce-text-block .vce-text-block-wrapper .wp-block-cover:nth-child(10){
+
+	display:none;
+}
+
+
+
+/*-----------------------------------------------*/
+/*  "درباره ما" Page                     */
+/*-----------------------------------------------*/
+body.page-id-61 .nv-single-page-wrap .wp-block-cover .wp-block-cover__background{
+	display:none;
+}
+
+body.page-id-61 .nv-single-page-wrap .wp-block-image .wp-image-39{
+	display:none;
+}
+
+body.page-id-61 .nv-single-page-wrap .wp-container-8{
+	display:none;
+}
+
+body.page-id-61 .wp-container-9 .wp-block-spacer{
+	display:none;
+}
+
+body.page-id-61 .nv-single-page-wrap .wp-block-cover{
+	-webkit-transform:translatex(0px) translatey(0px);	-ms-transform:translatex(0px) translatey(0px);	transform:translatex(0px) translatey(0px);
+}
+
+body.page-id-61 .nv-single-page-wrap .size-large .wp-image-215{
+	display:none;
+}
+
+body.page-id-61 .nv-single-page-wrap .wp-container-19{
+	display:none;
+}
+
+body.page-id-61 .nv-single-page-wrap .size-large .wp-image-216{
+	display:none;
+}
+
+body.page-id-61 .nv-single-page-wrap .size-large .wp-image-214{
+	display:none;
+}
+
+body.page-id-61 .wp-container-21 .wp-block-spacer{
+	display:none;
+}
+
+body.page-id-61 .nv-single-page-wrap .wp-container-15 h3{
+	display:none;
+}
+
+body.page-id-61 .nv-single-page-wrap .wp-container-15{
+	display:none;
+}
+
+body.page-id-61 .nv-single-page-wrap .wp-block-group__inner-container .wp-container-20 .wp-container-17{
+	display:none;
+}
+
+body.page-id-61 .nv-single-page-wrap .wp-container-12 p{
+	display:none;
+}
+
+body.page-id-61 .nv-single-page-wrap .wp-container-11 p{
+	display:none;
+}
+
+body.page-id-61 .nv-single-page-wrap .wp-container-10 p{
+	display:none;
+}
+
+body.page-id-61 .nv-single-page-wrap .wp-block-cover:nth-child(4){
+
+	display:none;
+}
+
+body.page-id-61 .nv-single-page-wrap .wp-block-cover:nth-child(2){
+
+	display:none;
+}
+
+body.page-id-61 .wp-container-4 .wp-block-spacer{
+	display:none;
+}
+
+body.page-id-61 .vce-text-block-wrapper .wp-block-cover .wp-block-spacer{
+	display:none;
+}
+
+body.page-id-61 .wrapper .row .nv-single-page-wrap .nv-content-wrap .vce-row-container #el-77a9327b .vce-row-content .vce-col--md-auto .vce-col-inner .vce-col-content .vce-text-block .vce-text-block-wrapper .wp-block-cover .wp-block-cover__inner-container{
+	display:inline-block !important;
+	-webkit-transform:translatex(0px) translatey(0px) !important;	-ms-transform:translatex(0px) translatey(0px) !important;	transform:translatex(0px) translatey(0px) !important;
+}
